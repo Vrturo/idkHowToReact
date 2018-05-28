@@ -1,0 +1,26 @@
+{
+  "name": "idkhowtoreact",
+  "version": "1.0.0",
+  "description": "repo for react practice",
+  "main": "App.react.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vrturo/idkHowToReact.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Art",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vrturo/idkHowToReact/issues"
+  },
+  "homepage": "https://github.com/Vrturo/idkHowToReact#readme",
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  }
+}
